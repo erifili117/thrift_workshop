@@ -1,0 +1,9 @@
+{
+    "name": "er117/client",
+    "require": {
+        "apache/thrift": "^0.12.0"
+    },
+    "autoload": {
+        "psr-4": {"Client\\Example\\phpExample\\": "Client/Example/phpExample"}
+    }
+}
